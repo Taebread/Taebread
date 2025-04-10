@@ -7,9 +7,7 @@
 ## 🏫 History
 - 국립한국교통대학교
   - 항공기계설계학과
-
 - 공군 ROTC 46기(대위)
-
 - Data Science Academy
   - K-MOVE SCIT Master 46기
 

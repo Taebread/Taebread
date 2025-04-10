@@ -8,8 +8,6 @@
 - 국립한국교통대학교
   - 항공기계설계학과
 
-<br/>
-
 - 공군 ROTC 46기(대위)
 
 - Data Science Academy
@@ -25,7 +23,6 @@
       <th>Back-End</th>
       <th>Frond-End</th>
       <th>DataBase</th>
-      <th>Data-Science</th>
   </tr>
   <tr>
     <td>
@@ -49,7 +46,6 @@
 </table>
 <table>
   <tr>
-      <th>Cloud & SSH</th>
       <th>IDE</th>
       <th>Management</th>
       <th>etc</th>
